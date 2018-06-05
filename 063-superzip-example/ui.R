@@ -43,7 +43,7 @@ navbarPage("UrbIS Commute Time App", id="nav",
       ),
 
       tags$div(id="cite",
-        'Data compiled by Oak Ridge National Laboratory using U.S. Census Bereau LODES Data and Google Nav Data'
+        'Developed by ORNL using U.S. Census Bereau LODES Data and Google Nav Data'
       )
     )
   ),
