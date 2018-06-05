@@ -10,7 +10,7 @@ vars <- c(
 )
 
 
-navbarPage("Superzip", id="nav",
+navbarPage("UrbIS Commute Time App", id="nav",
 
   tabPanel("Interactive map",
     div(class="outer",
