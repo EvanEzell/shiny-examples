@@ -43,7 +43,7 @@ navbarPage("UrbIS Commute Time App", id="nav",
       ),
 
       tags$div(id="cite",
-        'Data compiled for ', tags$em('Coming Apart: The State of White America, 1960–2010'), ' by Charles Murray (Crown Forum, 2012).'
+        'Data compiled by Oak Ridge National Laboratory using U.S. Census Bereau LODES Data and Google Nav Data'
       )
     )
   ),
